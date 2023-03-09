@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">task1</string>
+    <string name="profile_name">Ahmed hassan</string>
+    <string name="profile_profession">Engineer</string>
+    <string name="review">(150 Reviews)</string>
+    <string name="review_rate">4.5</string>
+    <string name="profile_country">Russian</string>
+    <string name="time">5 Days ago</string>
+    <string name="hours">3 hr</string>
+    <string name="uk">UK</string>
+</resources>
